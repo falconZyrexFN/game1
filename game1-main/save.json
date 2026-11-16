@@ -1,0 +1,523 @@
+{
+    "player": {
+        "x": 1204.30644327514,
+        "y": 818.452640432028,
+        "direction": "down"
+    },
+    "state": {
+        "day": 3,
+        "time": 7.202640000000145,
+        "money": 119,
+        "inventory": {
+            "holly": 6,
+            "moon_agaric": 2,
+            "moss_cushion": 2,
+            "snowflower": 4,
+            "ice_moss": 2,
+            "daisy": 2,
+            "rime_grass": 4,
+            "honey_fungus": 2,
+            "poppy": 2,
+            "calendula": 2,
+            "golden_wheat": 2,
+            "hellebore": 2,
+            "sorrel": 2
+        },
+        "tool": "shovel",
+        "selected_plant": "holly",
+        "discovered": [
+            "calendula",
+            "daisy",
+            "golden_wheat",
+            "hellebore",
+            "holly",
+            "honey_fungus",
+            "ice_moss",
+            "moon_agaric",
+            "moss_cushion",
+            "poppy",
+            "rime_grass",
+            "snowflower",
+            "sorrel"
+        ],
+        "grown": [
+            "calendula",
+            "daisy",
+            "golden_wheat",
+            "hellebore",
+            "holly",
+            "honey_fungus",
+            "ice_moss",
+            "moon_agaric",
+            "moss_cushion",
+            "poppy",
+            "rime_grass",
+            "snowflower",
+            "sorrel"
+        ],
+        "plots": {
+            "26,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "26,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "26,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "26,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "26,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "28,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "27,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "26,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "29,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,16": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,15": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,14": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,13": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,12": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "20,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "23,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "22,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            },
+            "21,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false
+            }
+        },
+        "spots": [
+            {
+                "biome": "forest",
+                "tx": 10,
+                "ty": 9
+            },
+            {
+                "biome": "forest",
+                "tx": 2,
+                "ty": 7
+            },
+            {
+                "biome": "forest",
+                "tx": 8,
+                "ty": 4
+            },
+            {
+                "biome": "forest",
+                "tx": 11,
+                "ty": 3
+            },
+            {
+                "biome": "forest",
+                "tx": 5,
+                "ty": 9
+            },
+            {
+                "biome": "forest",
+                "tx": 13,
+                "ty": 26
+            },
+            {
+                "biome": "forest",
+                "tx": 2,
+                "ty": 1
+            },
+            {
+                "biome": "meadow",
+                "tx": 35,
+                "ty": 23
+            },
+            {
+                "biome": "meadow",
+                "tx": 30,
+                "ty": 25
+            },
+            {
+                "biome": "meadow",
+                "tx": 34,
+                "ty": 16
+            },
+            {
+                "biome": "meadow",
+                "tx": 33,
+                "ty": 25
+            },
+            {
+                "biome": "meadow",
+                "tx": 23,
+                "ty": 25
+            },
+            {
+                "biome": "meadow",
+                "tx": 21,
+                "ty": 26
+            },
+            {
+                "biome": "meadow",
+                "tx": 28,
+                "ty": 1
+            },
+            {
+                "biome": "winter",
+                "tx": 41,
+                "ty": 4
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 3
+            },
+            {
+                "biome": "winter",
+                "tx": 44,
+                "ty": 14
+            },
+            {
+                "biome": "winter",
+                "tx": 42,
+                "ty": 5
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 16
+            },
+            {
+                "biome": "winter",
+                "tx": 38,
+                "ty": 16
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 7
+            }
+        ],
+        "explore": {
+            "forest": {
+                "searches": 3,
+                "species": [
+                    "sorrel",
+                    "moon_agaric",
+                    "moss_cushion"
+                ]
+            },
+            "meadow": {
+                "searches": 4,
+                "species": [
+                    "daisy",
+                    "poppy",
+                    "calendula",
+                    "golden_wheat"
+                ]
+            },
+            "winter": {
+                "searches": 8,
+                "species": [
+                    "ice_moss",
+                    "rime_grass",
+                    "snowflower",
+                    "holly",
+                    "hellebore"
+                ]
+            }
+        },
+        "bought": {
+            "rime_grass": 1,
+            "ice_moss": 1,
+            "snowflower": 1,
+            "honey_fungus": 1
+        },
+        "sold": {
+            "moss_cushion": 1,
+            "sorrel": 1,
+            "honey_fungus": 1,
+            "moon_agaric": 1,
+            "daisy": 4,
+            "snowflower": 1,
+            "ice_moss": 3,
+            "rime_grass": 2
+        },
+        "merchant": {
+            "day": 3,
+            "stock": [
+                {
+                    "id": "fern",
+                    "price": 11,
+                    "qty": 2
+                },
+                {
+                    "id": "strawberry",
+                    "price": 13,
+                    "qty": 2
+                },
+                {
+                    "id": "sorrel",
+                    "price": 13,
+                    "qty": 2
+                },
+                {
+                    "id": "oat",
+                    "price": 13,
+                    "qty": 2
+                },
+                {
+                    "id": "ice_moss",
+                    "price": 12,
+                    "qty": 1
+                },
+                {
+                    "id": "frost_pine",
+                    "price": 12,
+                    "qty": 3
+                }
+            ]
+        }
+    }
+}
