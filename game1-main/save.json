@@ -1,0 +1,274 @@
+{
+    "player": {
+        "x": 408.1875405672466,
+        "y": 1060.6714144325892,
+        "direction": "up"
+    },
+    "state": {
+        "day": 4,
+        "time": 8.14975529411777,
+        "money": 312,
+        "water": 8,
+        "inventory": {
+            "daisy": 1,
+            "calendula": 1,
+            "dandelion": 1,
+            "honey_fungus": 1,
+            "fern": 1,
+            "lingonberry": 1,
+            "sorrel": 1,
+            "shade_orchid": 1,
+            "bluebell": 1,
+            "snowflower": 1,
+            "silver_fir": 1,
+            "holly": 1,
+            "ice_moss": 1,
+            "rime_berry": 1,
+            "frost_pine": 1,
+            "strawberry": 1,
+            "moss_cushion": 1,
+            "glow_fern": 1,
+            "hellebore": 1,
+            "rime_grass": 1,
+            "ember_lotus": 1
+        },
+        "tool": "shovel",
+        "selected_plant": "fern",
+        "discovered": [
+            "bluebell",
+            "calendula",
+            "daisy",
+            "dandelion",
+            "ember_lotus",
+            "fern",
+            "frost_pine",
+            "glow_fern",
+            "hellebore",
+            "holly",
+            "honey_fungus",
+            "ice_lotus",
+            "ice_moss",
+            "lingonberry",
+            "moss_cushion",
+            "poppy",
+            "rime_berry",
+            "rime_grass",
+            "shade_orchid",
+            "silver_fir",
+            "snowflower",
+            "sorrel",
+            "strawberry"
+        ],
+        "grown": [
+            "ember_lotus"
+        ],
+        "plots": {
+            "23,17": {
+                "plant": null,
+                "watered": false,
+                "mature": false,
+                "rich": true,
+                "super": true
+            }
+        },
+        "spots": [
+            {
+                "biome": "forest",
+                "tx": 6,
+                "ty": 6
+            },
+            {
+                "biome": "forest",
+                "tx": 8,
+                "ty": 3
+            },
+            {
+                "biome": "forest",
+                "tx": 10,
+                "ty": 10
+            },
+            {
+                "biome": "forest",
+                "tx": 1,
+                "ty": 12
+            },
+            {
+                "biome": "forest",
+                "tx": 1,
+                "ty": 16
+            },
+            {
+                "biome": "forest",
+                "tx": 3,
+                "ty": 23
+            },
+            {
+                "biome": "forest",
+                "tx": 9,
+                "ty": 16
+            },
+            {
+                "biome": "meadow",
+                "tx": 20,
+                "ty": 1
+            },
+            {
+                "biome": "meadow",
+                "tx": 23,
+                "ty": 1
+            },
+            {
+                "biome": "meadow",
+                "tx": 25,
+                "ty": 25
+            },
+            {
+                "biome": "meadow",
+                "tx": 27,
+                "ty": 25
+            },
+            {
+                "biome": "meadow",
+                "tx": 33,
+                "ty": 21
+            },
+            {
+                "biome": "meadow",
+                "tx": 15,
+                "ty": 18
+            },
+            {
+                "biome": "meadow",
+                "tx": 33,
+                "ty": 1
+            },
+            {
+                "biome": "winter",
+                "tx": 43,
+                "ty": 12
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 2
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 5
+            },
+            {
+                "biome": "winter",
+                "tx": 40,
+                "ty": 10
+            },
+            {
+                "biome": "winter",
+                "tx": 36,
+                "ty": 23
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 22
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 13
+            }
+        ],
+        "explore": {
+            "forest": {
+                "searches": 14,
+                "species": [
+                    "honey_fungus",
+                    "fern",
+                    "lingonberry",
+                    "sorrel",
+                    "shade_orchid",
+                    "bluebell",
+                    "strawberry",
+                    "moss_cushion",
+                    "glow_fern"
+                ]
+            },
+            "meadow": {
+                "searches": 2,
+                "species": [
+                    "calendula",
+                    "dandelion"
+                ]
+            },
+            "winter": {
+                "searches": 21,
+                "species": [
+                    "snowflower",
+                    "silver_fir",
+                    "holly",
+                    "ice_moss",
+                    "rime_berry",
+                    "frost_pine",
+                    "hellebore",
+                    "rime_grass",
+                    "ice_lotus"
+                ]
+            }
+        },
+        "bought": {
+            "poppy": 1
+        },
+        "sold": {
+            "fern": 1,
+            "honey_fungus": 1,
+            "daisy": 1,
+            "snowflower": 1,
+            "ember_lotus": 2,
+            "silver_fir": 2,
+            "holly": 2,
+            "frost_pine": 2,
+            "hellebore": 3,
+            "ice_moss": 2,
+            "bluebell": 2,
+            "moss_cushion": 1
+        },
+        "crossed": {
+            "ember_lotus": 1
+        },
+        "merchant": {
+            "day": 4,
+            "stock": [
+                {
+                    "id": "fern",
+                    "price": 11,
+                    "qty": 2
+                },
+                {
+                    "id": "spirit_tree",
+                    "price": 288,
+                    "qty": 1
+                },
+                {
+                    "id": "plantain",
+                    "price": 13,
+                    "qty": 3
+                },
+                {
+                    "id": "oat",
+                    "price": 12,
+                    "qty": 2
+                },
+                {
+                    "id": "cornflower",
+                    "price": 33,
+                    "qty": 3
+                },
+                {
+                    "id": "snowflower",
+                    "price": 12,
+                    "qty": 3
+                }
+            ]
+        }
+    }
+}
