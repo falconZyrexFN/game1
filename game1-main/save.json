@@ -1,0 +1,198 @@
+{
+    "player": {
+        "x": 1171.5070560197626,
+        "y": 744.8015808192663,
+        "direction": "up"
+    },
+    "state": {
+        "day": 1,
+        "time": 10.152959999999759,
+        "money": 9,
+        "water": 6,
+        "inventory": {
+            "daisy": 1,
+            "clover": 1,
+            "oat": 1,
+            "blueberry": 1,
+            "lingonberry": 1,
+            "honey_fungus": 1,
+            "moss_cushion": 1
+        },
+        "tool": "hoe",
+        "selected_plant": "daisy",
+        "discovered": [
+            "blueberry",
+            "clover",
+            "daisy",
+            "honey_fungus",
+            "lingonberry",
+            "moss_cushion",
+            "oat"
+        ],
+        "grown": [],
+        "plots": {
+            "23,14": {
+                "plant": "daisy",
+                "watered": true,
+                "mature": false,
+                "rich": true,
+                "super": false
+            },
+            "23,11": {
+                "plant": null,
+                "watered": false,
+                "mature": false,
+                "rich": true,
+                "super": true
+            }
+        },
+        "spots": [
+            {
+                "biome": "forest",
+                "tx": 5,
+                "ty": 6
+            },
+            {
+                "biome": "forest",
+                "tx": 1,
+                "ty": 5
+            },
+            {
+                "biome": "forest",
+                "tx": 8,
+                "ty": 3
+            },
+            {
+                "biome": "forest",
+                "tx": 1,
+                "ty": 2
+            },
+            {
+                "biome": "forest",
+                "tx": 5,
+                "ty": 5
+            },
+            {
+                "biome": "meadow",
+                "tx": 36,
+                "ty": 19
+            },
+            {
+                "biome": "meadow",
+                "tx": 33,
+                "ty": 3
+            },
+            {
+                "biome": "meadow",
+                "tx": 22,
+                "ty": 1
+            },
+            {
+                "biome": "meadow",
+                "tx": 14,
+                "ty": 13
+            },
+            {
+                "biome": "meadow",
+                "tx": 33,
+                "ty": 14
+            },
+            {
+                "biome": "winter",
+                "tx": 43,
+                "ty": 26
+            },
+            {
+                "biome": "winter",
+                "tx": 40,
+                "ty": 9
+            },
+            {
+                "biome": "winter",
+                "tx": 40,
+                "ty": 5
+            },
+            {
+                "biome": "winter",
+                "tx": 46,
+                "ty": 1
+            },
+            {
+                "biome": "winter",
+                "tx": 40,
+                "ty": 15
+            },
+            {
+                "biome": "winter",
+                "tx": 40,
+                "ty": 12
+            },
+            {
+                "biome": "winter",
+                "tx": 33,
+                "ty": 11
+            }
+        ],
+        "explore": {
+            "forest": {
+                "searches": 2,
+                "species": [
+                    "honey_fungus",
+                    "moss_cushion"
+                ]
+            },
+            "meadow": {
+                "searches": 2,
+                "species": [
+                    "clover",
+                    "oat"
+                ]
+            },
+            "winter": {
+                "searches": 0,
+                "species": []
+            }
+        },
+        "bought": {
+            "blueberry": 1,
+            "lingonberry": 1
+        },
+        "sold": {},
+        "crossed": {},
+        "merchant": {
+            "day": 1,
+            "stock": [
+                {
+                    "id": "lingonberry",
+                    "price": 11,
+                    "qty": 1
+                },
+                {
+                    "id": "blueberry",
+                    "price": 30,
+                    "qty": 2
+                },
+                {
+                    "id": "daisy",
+                    "price": 13,
+                    "qty": 1
+                },
+                {
+                    "id": "dawn_tulip",
+                    "price": 88,
+                    "qty": 1
+                },
+                {
+                    "id": "frost_pine",
+                    "price": 13,
+                    "qty": 2
+                },
+                {
+                    "id": "holly",
+                    "price": 11,
+                    "qty": 1
+                }
+            ]
+        }
+    }
+}
